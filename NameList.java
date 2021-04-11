@@ -1,9 +1,3 @@
-/*	Evan Roman
- * 	CS 3345.004 - Project 2
- * 	Ozbirn
- * 	Custom Linked List
- */
-
 public class NameList {
 	private Node head;	// Head of list
 	
